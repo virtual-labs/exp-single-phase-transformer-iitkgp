@@ -2,38 +2,93 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The emf per turn for a single phase, 2310/220 V, 50Hz transformer is approximately 13V. Calculate a) the number of primary and secondary turns and b) the net cross sectional area of the core for a maximum flux density of 1.4T<br/>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(a) N<sub>1</sub>=189, N<sub>2</sub>=18  &nbsp;(b) A<sub>i</sub>=393cm<sup>2</sup>",
+        "b": "(a) N<sub>1</sub>=180, N<sub>2</sub>=17  &nbsp;(b) A<sub>i</sub>=350cm<sup>2</sup>",
+        "c": "(a) N<sub>1</sub>=189, N<sub>2</sub>=18  &nbsp;(b) A<sub>i</sub>=350cm<sup>2</sup>",
+        "d": "(a) N<sub>1</sub>=180, N<sub>2</sub>=17  &nbsp;(b) A<sub>i</sub>=393cm<sup>2</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A single phase 50 Hz transformer has the three windings : a 220V primary, a 600V secondary and a center trapped 11-0-11 V tertiary. For a net core area of 75 cm<sup>2</sup> , calculate the number of turns in the three windings. The maximum value of flux density of 1.2T<br/>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "N<sub>1</sub>=120, N<sub>2</sub>=240",
+        "b": "N<sub>1</sub>=140, N<sub>2</sub>=380",
+        "c": "N<sub>1</sub>=120, N<sub>2</sub>=327",
+        "d": "N<sub>1</sub>=210, N<sub>2</sub>=327"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "A 2200/220 V, 50 Hz, single phase transformer has exciting current of 0.6Amp and a core loss of 361 Watts, When its h.v side is energized at rated voltage. Calculate the two components of the exciting current.<br/>",
+      "answers": {
+        "a": "I<sub>c</sub>=0.264A, I<sub>m</sub>=0.577A",
+        "b": "I<sub>c</sub>=0.264A, I<sub>m</sub>=0.777A",
+        "c": "I<sub>c</sub>=0.164A, I<sub>m</sub>=0.777A",
+        "d": "I<sub>c</sub>=0.164A, I<sub>m</sub>=0.577A"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An ideal transformer has three windings : 100 turns on the primary winding p, 160 turns on secondary windings s and 60 turns on tertiary windings T. Winding s feeds 10A to a resistive load whereas a pure capacitance load across winding T takes 20A. &nbsp;Calculate the current in the primary winding and its power factor in case transformer magnetizing current is neglected.<br/>",
+      "answers": {
+        "a": "Primary winding current is=15A &nbsp;and&nbsp; power factor=0.4 lagging",
+        "b": "Primary winding current is=17A &nbsp;and&nbsp; power factor=0.6 lagging",
+        "c": "Primary winding current is=20A &nbsp;and&nbsp; power factor=0.8 lagging",
+        "d": "Primary winding current is=25A &nbsp;and&nbsp; power factor=0.8 lagging"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen correct answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A 10KVA, 2500/250V, single phase transformer has resistances and leakage reactances as follows: r<sub>1</sub> =4.8Ω, r<sub>2</sub>=0.048Ω, x<sub>1</sub>=11.2Ω, x<sub>2</sub>=0.112Ω, 1 and 2 denote high voltage and low voltage winding respectively. With the primary voltage held constant at 2500V, calculate the secondary terminal voltage when, a) the l.v. side is connected to a load impedance of (5+j3.5Ω) b) the transformer delivers its rated current at 0.8 p.f lagging on the l.v. side<br/>",
+      "answers": {
+        "a": "(a) Secondary terminal voltage=142V &nbsp;(b) the rated current on L.V. side is=300A",
+        "b": "(a) Secondary terminal voltage=242V &nbsp;(b) the rated current on L.V. side is=40A",
+        "c": "(a) Secondary terminal voltage=342V &nbsp;(b) the rated current on L.V. side is=60A",
+        "d": "(a) Secondary terminal voltage=442V &nbsp;(b) the rated current on L.V. side is=50A"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
+
+
+
+
   ]
 }

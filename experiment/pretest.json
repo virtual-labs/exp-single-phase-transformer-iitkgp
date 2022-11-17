@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": " What is the function of a transformer? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Transformer is used to step down or up the AC voltages and currents",
+        "b": "Transformer is used to step down or up the DC voltages and currents",
+        "c": "Transformer converts DC to AC voltages",
+        "d": "Transformer converts AC to DC voltages"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Transformer ratings are given in _____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "kVA",
+        "b": "HP",
+        "c": "kVAR",
+        "d": "kW"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen correct answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": " What is the current transformer?",
+      "answers": {
+        "a": "transformer used with an A.C. voltmeter",
+        "b": "transformer used with an A.C. ammeter",
+        "c": "transformer used with an D.C. voltmeter",
+        "d": "transformer used with an D.C. ammeter "
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    } 
   ]
 }
