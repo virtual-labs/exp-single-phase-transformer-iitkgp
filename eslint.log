@@ -1,0 +1,1309 @@
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/jqplot.meterGaugeRenderer.min.js
+  69:816    warning  'f' is already defined                   no-redeclare
+  69:1943   warning  'j' is defined but never used            no-unused-vars
+  69:1968   warning  'e' is assigned a value but never used   no-unused-vars
+  69:2132   warning  'h' is already defined                   no-redeclare
+  69:2246   warning  'k' is defined but never used            no-unused-vars
+  69:2271   warning  'e' is assigned a value but never used   no-unused-vars
+  69:2411   warning  'h' is already defined                   no-redeclare
+  69:3301   warning  'm' is assigned a value but never used   no-unused-vars
+  69:3352   warning  'N' is assigned a value but never used   no-unused-vars
+  69:3409   warning  'I' is assigned a value but never used   no-unused-vars
+  69:6282   warning  'E' is already defined                   no-redeclare
+  69:6410   warning  'O' is already defined                   no-redeclare
+  69:6905   warning  'C' is defined but never used            no-unused-vars
+  69:7197   warning  'O' is already defined                   no-redeclare
+  69:7741   warning  'H' is assigned a value but never used   no-unused-vars
+  69:7751   warning  'e' is assigned a value but never used   no-unused-vars
+  69:8264   warning  'aa' is already defined                  no-redeclare
+  69:8604   warning  'aa' is already defined                  no-redeclare
+  69:9392   warning  'ae' is assigned a value but never used  no-unused-vars
+  69:9982   warning  'T' is already defined                   no-redeclare
+  69:9999   warning  'an' is already defined                  no-redeclare
+  69:10689  warning  'W' is already defined                   no-redeclare
+  69:10737  warning  'an' is already defined                  no-redeclare
+  69:10788  warning  'T' is already defined                   no-redeclare
+  69:11129  warning  'W' is already defined                   no-redeclare
+  69:11212  warning  'T' is already defined                   no-redeclare
+  69:11567  warning  'ag' is already defined                  no-redeclare
+  69:11636  warning  'ag' is already defined                  no-redeclare
+  69:11668  warning  'P' is already defined                   no-redeclare
+  69:11692  warning  'aD' is assigned a value but never used  no-unused-vars
+  69:12732  warning  'aa' is already defined                  no-redeclare
+  69:16310  warning  'e' is defined but never used            no-unused-vars
+  69:16626  warning  'jQuery' is not defined                  no-undef
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/jquery.jqplot.min.js
+  57:9998    warning  'ac' is already defined                                                    no-redeclare
+  57:10455   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:15707   warning  'ab' is already defined                                                    no-redeclare
+  57:21355   warning  'ac' is already defined                                                    no-redeclare
+  57:24556   warning  'ad' is assigned a value but never used                                    no-unused-vars
+  57:24705   warning  'am' is already defined                                                    no-redeclare
+  57:25775   warning  'am' is already defined                                                    no-redeclare
+  57:27806   warning  'am' is already defined                                                    no-redeclare
+  57:28214   warning  'ak' is already defined                                                    no-redeclare
+  57:28546   warning  'ak' is already defined                                                    no-redeclare
+  57:28729   warning  'ak' is already defined                                                    no-redeclare
+  57:28994   warning  'am' is already defined                                                    no-redeclare
+  57:28999   warning  'aj' is already defined                                                    no-redeclare
+  57:29389   warning  'am' is already defined                                                    no-redeclare
+  57:29495   warning  'am' is already defined                                                    no-redeclare
+  57:30117   warning  'ao' is already defined                                                    no-redeclare
+  57:30728   warning  'ao' is already defined                                                    no-redeclare
+  57:30804   warning  'am' is already defined                                                    no-redeclare
+  57:31785   warning  'ao' is already defined                                                    no-redeclare
+  57:31790   warning  'ak' is already defined                                                    no-redeclare
+  57:32018   warning  'am' is already defined                                                    no-redeclare
+  57:32199   warning  'am' is already defined                                                    no-redeclare
+  57:32531   warning  'am' is already defined                                                    no-redeclare
+  57:32714   warning  'am' is already defined                                                    no-redeclare
+  57:32969   warning  'ao' is already defined                                                    no-redeclare
+  57:32974   warning  'ak' is already defined                                                    no-redeclare
+  57:33353   warning  'ao' is already defined                                                    no-redeclare
+  57:33358   warning  'ak' is already defined                                                    no-redeclare
+  57:33465   warning  'ao' is already defined                                                    no-redeclare
+  57:33470   warning  'ak' is already defined                                                    no-redeclare
+  57:34951   warning  'ai' is already defined                                                    no-redeclare
+  57:35362   warning  'ao' is defined but never used                                             no-unused-vars
+  57:35365   warning  'ap' is defined but never used                                             no-unused-vars
+  57:35368   warning  'af' is defined but never used                                             no-unused-vars
+  57:35371   warning  'am' is defined but never used                                             no-unused-vars
+  57:35705   warning  'ai' is already defined                                                    no-redeclare
+  57:36048   warning  'am' is assigned a value but never used                                    no-unused-vars
+  57:36462   warning  'ai' is already defined                                                    no-redeclare
+  57:37147   warning  'al' is already defined                                                    no-redeclare
+  57:37510   warning  'al' is already defined                                                    no-redeclare
+  57:38148   warning  'al' is already defined                                                    no-redeclare
+  57:38583   warning  'an' is assigned a value but never used                                    no-unused-vars
+  57:38611   warning  'al' is already defined                                                    no-redeclare
+  57:38646   warning  'ap' is already defined                                                    no-redeclare
+  57:38831   warning  'ak' is already defined                                                    no-redeclare
+  57:39860   warning  'ak' is already defined                                                    no-redeclare
+  57:40041   warning  'ak' is already defined                                                    no-redeclare
+  57:40270   warning  'al' is already defined                                                    no-redeclare
+  57:40275   warning  'aj' is already defined                                                    no-redeclare
+  57:40303   warning  'ag' is already defined                                                    no-redeclare
+  57:40316   warning  'ai' is already defined                                                    no-redeclare
+  57:40648   warning  'al' is already defined                                                    no-redeclare
+  57:40757   warning  'al' is already defined                                                    no-redeclare
+  57:42074   warning  'ai' is defined but never used                                             no-unused-vars
+  57:43883   warning  'au' is already defined                                                    no-redeclare
+  57:46619   warning  'aB' is already defined                                                    no-redeclare
+  57:46624   warning  'ay' is already defined                                                    no-redeclare
+  57:46793   warning  'aB' is already defined                                                    no-redeclare
+  57:46798   warning  'ay' is already defined                                                    no-redeclare
+  57:47152   warning  'aB' is already defined                                                    no-redeclare
+  57:47157   warning  'ay' is already defined                                                    no-redeclare
+  57:47248   warning  'aB' is already defined                                                    no-redeclare
+  57:47253   warning  'ay' is already defined                                                    no-redeclare
+  57:48344   warning  'aj' is already defined                                                    no-redeclare
+  57:48454   warning  'am' is already defined                                                    no-redeclare
+  57:50039   warning  'al' is defined but never used                                             no-unused-vars
+  57:50045   warning  'aG' is defined but never used                                             no-unused-vars
+  57:52295   warning  'aO' is already defined                                                    no-redeclare
+  57:52641   warning  Unexpected lexical declaration in case block                               no-case-declarations
+  57:52641   warning  Move function declaration to function body root                            no-inner-declarations
+  57:53325   warning  'aO' is already defined                                                    no-redeclare
+  57:53341   warning  'aA' is already defined                                                    no-redeclare
+  57:53761   warning  'aO' is already defined                                                    no-redeclare
+  57:54095   warning  'ao' is already defined                                                    no-redeclare
+  57:54298   warning  'ao' is already defined                                                    no-redeclare
+  57:54823   warning  'aO' is already defined                                                    no-redeclare
+  57:54940   warning  'ao' is already defined                                                    no-redeclare
+  57:55157   warning  'ao' is already defined                                                    no-redeclare
+  57:55360   warning  'ao' is already defined                                                    no-redeclare
+  57:56798   warning  'af' is already defined                                                    no-redeclare
+  57:59323   warning  'ak' is defined but never used                                             no-unused-vars
+  57:59842   warning  'ai' is defined but never used                                             no-unused-vars
+  57:60706   warning  'af' is already defined                                                    no-redeclare
+  57:60745   warning  'ab' is already defined                                                    no-redeclare
+  57:60772   warning  'ah' is already defined                                                    no-redeclare
+  57:60801   warning  'ad' is already defined                                                    no-redeclare
+  57:67752   warning  'ab' is defined but never used                                             no-unused-vars
+  57:67755   warning  'ac' is defined but never used                                             no-unused-vars
+  57:73061   warning  'ae' is already defined                                                    no-redeclare
+  57:73838   warning  'ae' is already defined                                                    no-redeclare
+  57:74625   warning  'ae' is already defined                                                    no-redeclare
+  57:75379   warning  'ae' is already defined                                                    no-redeclare
+  57:75990   warning  'aq' is already defined                                                    no-redeclare
+  57:76010   warning  'ab' is already defined                                                    no-redeclare
+  57:76030   warning  'au' is already defined                                                    no-redeclare
+  57:76413   warning  'an' is already defined                                                    no-redeclare
+  57:76441   warning  'ah' is already defined                                                    no-redeclare
+  57:76483   warning  'ae' is already defined                                                    no-redeclare
+  57:77169   warning  'ao' is already defined                                                    no-redeclare
+  57:78123   warning  'ae' is assigned a value but never used                                    no-unused-vars
+  57:79667   warning  Unexpected constant condition                                              no-constant-condition
+  57:83155   warning  'ao' is defined but never used                                             no-unused-vars
+  57:83528   warning  'ap' is already defined                                                    no-redeclare
+  57:83533   warning  'am' is already defined                                                    no-redeclare
+  57:83885   warning  'ap' is already defined                                                    no-redeclare
+  57:83890   warning  'am' is already defined                                                    no-redeclare
+  57:84063   warning  'ad' is already defined                                                    no-redeclare
+  57:84094   warning  'aw' is already defined                                                    no-redeclare
+  57:84114   warning  'ap' is already defined                                                    no-redeclare
+  57:84119   warning  'am' is already defined                                                    no-redeclare
+  57:84731   warning  'ap' is already defined                                                    no-redeclare
+  57:84736   warning  'am' is already defined                                                    no-redeclare
+  57:85089   warning  'ap' is already defined                                                    no-redeclare
+  57:85094   warning  'am' is already defined                                                    no-redeclare
+  57:85202   warning  'ap' is already defined                                                    no-redeclare
+  57:85207   warning  'am' is already defined                                                    no-redeclare
+  57:85530   warning  'k' is defined but never used                                              no-unused-vars
+  57:85862   warning  'ag' is assigned a value but never used                                    no-unused-vars
+  57:86264   warning  'ay' is already defined                                                    no-redeclare
+  57:87291   warning  'aw' is already defined                                                    no-redeclare
+  57:87296   warning  'au' is already defined                                                    no-redeclare
+  57:87695   warning  'aD' is assigned a value but never used                                    no-unused-vars
+  57:87830   warning  'ap' is assigned a value but never used                                    no-unused-vars
+  57:87840   warning  'ad' is assigned a value but never used                                    no-unused-vars
+  57:89011   warning  'aj' is defined but never used                                             no-unused-vars
+  57:90231   warning  'ah' is already defined                                                    no-redeclare
+  57:90236   warning  'ad' is already defined                                                    no-redeclare
+  57:90390   warning  'ah' is already defined                                                    no-redeclare
+  57:90395   warning  'ad' is already defined                                                    no-redeclare
+  57:91317   warning  'ak' is defined but never used                                             no-unused-vars
+  57:91395   warning  'ad' is assigned a value but never used                                    no-unused-vars
+  57:92068   warning  'ah' is already defined                                                    no-redeclare
+  57:92227   warning  'ah' is already defined                                                    no-redeclare
+  57:92232   warning  'ae' is already defined                                                    no-redeclare
+  57:93128   warning  'av' is defined but never used                                             no-unused-vars
+  57:93758   warning  'ad' is assigned a value but never used                                    no-unused-vars
+  57:93911   warning  'aw' is already defined                                                    no-redeclare
+  57:94371   warning  'ai' is assigned a value but never used                                    no-unused-vars
+  57:94673   warning  'aw' is already defined                                                    no-redeclare
+  57:94846   warning  'aB' is already defined                                                    no-redeclare
+  57:94995   warning  'an' is already defined                                                    no-redeclare
+  57:95025   warning  'aw' is already defined                                                    no-redeclare
+  57:96296   warning  'al' is already defined                                                    no-redeclare
+  57:96977   warning  'ab' is defined but never used                                             no-unused-vars
+  57:96980   warning  'ad' is defined but never used                                             no-unused-vars
+  57:96983   warning  'ac' is defined but never used                                             no-unused-vars
+  57:97000   warning  'ae' is defined but never used                                             no-unused-vars
+  57:97003   warning  'ad' is defined but never used                                             no-unused-vars
+  57:97006   warning  'ab' is defined but never used                                             no-unused-vars
+  57:98615   warning  'jQuery' is not defined                                                    no-undef
+  57:98817   warning  'jQuery' is not defined                                                    no-undef
+  57:99189   warning  'jQuery' is not defined                                                    no-undef
+  57:99598   warning  'jQuery' is not defined                                                    no-undef
+  57:99904   warning  'jQuery' is not defined                                                    no-undef
+  57:100832  warning  'ah' is assigned a value but never used                                    no-unused-vars
+  57:100841  warning  'ac' is defined but never used                                             no-unused-vars
+  57:103194  warning  'ah' is defined but never used                                             no-unused-vars
+  57:103211  warning  'aj' is defined but never used                                             no-unused-vars
+  57:103214  warning  'ai' is defined but never used                                             no-unused-vars
+  57:105838  warning  'au' is assigned a value but never used                                    no-unused-vars
+  57:105894  warning  'aU' is already defined                                                    no-redeclare
+  57:107873  warning  'am' is already defined                                                    no-redeclare
+  57:108491  warning  'az' is already defined                                                    no-redeclare
+  57:108548  warning  'aG' is already defined                                                    no-redeclare
+  57:108608  warning  'am' is already defined                                                    no-redeclare
+  57:108958  warning  'aF' is already defined                                                    no-redeclare
+  57:109061  warning  Unnecessary escape character: \%                                           no-useless-escape
+  57:109664  warning  'aR' is already defined                                                    no-redeclare
+  57:109847  warning  'aR' is already defined                                                    no-redeclare
+  57:110409  warning  'aO' is already defined                                                    no-redeclare
+  57:110423  warning  'aU' is already defined                                                    no-redeclare
+  57:110610  warning  'aT' is already defined                                                    no-redeclare
+  57:110953  warning  'aN' is assigned a value but never used                                    no-unused-vars
+  57:114016  warning  'ao' is already defined                                                    no-redeclare
+  57:114044  warning  'aj' is already defined                                                    no-redeclare
+  57:114084  warning  'ab' is already defined                                                    no-redeclare
+  57:114153  warning  'aq' is already defined                                                    no-redeclare
+  57:114685  warning  'at' is already defined                                                    no-redeclare
+  57:115217  warning  'b' is assigned a value but never used                                     no-unused-vars
+  57:115313  warning  'i' is assigned a value but never used                                     no-unused-vars
+  57:117470  warning  'aj' is already defined                                                    no-redeclare
+  57:119312  warning  'ag' is defined but never used                                             no-unused-vars
+  57:119315  warning  'ak' is defined but never used                                             no-unused-vars
+  57:119733  warning  'ag' is defined but never used                                             no-unused-vars
+  57:119736  warning  'ak' is defined but never used                                             no-unused-vars
+  57:120211  warning  'ah' is assigned a value but never used                                    no-unused-vars
+  57:127803  warning  'ac' is already defined                                                    no-redeclare
+  57:127878  warning  'ab' is already defined                                                    no-redeclare
+  57:127958  warning  'ac' is already defined                                                    no-redeclare
+  57:127974  warning  'ab' is already defined                                                    no-redeclare
+  57:128036  warning  'ac' is already defined                                                    no-redeclare
+  57:128052  warning  'ab' is already defined                                                    no-redeclare
+  57:128178  warning  'ac' is already defined                                                    no-redeclare
+  57:128194  warning  'ab' is already defined                                                    no-redeclare
+  57:128262  warning  'ac' is already defined                                                    no-redeclare
+  57:128337  warning  'ab' is already defined                                                    no-redeclare
+  57:128405  warning  'ac' is already defined                                                    no-redeclare
+  57:128420  warning  'ab' is already defined                                                    no-redeclare
+  57:128487  warning  'ac' is already defined                                                    no-redeclare
+  57:128502  warning  'ab' is already defined                                                    no-redeclare
+  57:128626  warning  'ac' is already defined                                                    no-redeclare
+  57:128642  warning  'ab' is already defined                                                    no-redeclare
+  57:128769  warning  'ac' is already defined                                                    no-redeclare
+  57:128811  warning  'ab' is already defined                                                    no-redeclare
+  57:128891  warning  'ac' is already defined                                                    no-redeclare
+  57:128966  warning  'ab' is already defined                                                    no-redeclare
+  57:129077  warning  'ac' is already defined                                                    no-redeclare
+  57:129120  warning  'ab' is already defined                                                    no-redeclare
+  57:129181  warning  'ac' is already defined                                                    no-redeclare
+  57:129224  warning  'ab' is already defined                                                    no-redeclare
+  57:129349  warning  'ac' is already defined                                                    no-redeclare
+  57:129392  warning  'ab' is already defined                                                    no-redeclare
+  57:129459  warning  'ac' is already defined                                                    no-redeclare
+  57:129534  warning  'ab' is already defined                                                    no-redeclare
+  57:129627  warning  'ac' is already defined                                                    no-redeclare
+  57:129669  warning  'ab' is already defined                                                    no-redeclare
+  57:129737  warning  'ac' is already defined                                                    no-redeclare
+  57:129779  warning  'ab' is already defined                                                    no-redeclare
+  57:129904  warning  'ac' is already defined                                                    no-redeclare
+  57:129920  warning  'ab' is already defined                                                    no-redeclare
+  57:130067  warning  'ac' is already defined                                                    no-redeclare
+  57:130245  warning  'ab' is already defined                                                    no-redeclare
+  57:130441  warning  'ac' is already defined                                                    no-redeclare
+  57:130636  warning  'ab' is already defined                                                    no-redeclare
+  57:132428  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:133488  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:133604  warning  'am' is assigned a value but never used                                    no-unused-vars
+  57:133613  warning  'al' is assigned a value but never used                                    no-unused-vars
+  57:134462  warning  'ad' is already defined                                                    no-redeclare
+  57:134874  warning  'aq' is assigned a value but never used                                    no-unused-vars
+  57:135637  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:136439  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:137174  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:137284  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:137595  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:137705  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:137729  warning  'ac' is already defined                                                    no-redeclare
+  57:142446  warning  'aF' is assigned a value but never used                                    no-unused-vars
+  57:142912  warning  'aD' is already defined                                                    no-redeclare
+  57:145016  warning  'aB' is assigned a value but never used                                    no-unused-vars
+  57:145721  warning  'ad' is assigned a value but never used                                    no-unused-vars
+  57:147191  warning  'ae' is already defined                                                    no-redeclare
+  57:155662  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:156876  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:156926  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:156971  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:157021  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  57:157237  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  57:158925  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:158941  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159002  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159018  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159163  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159179  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159247  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159264  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159541  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159558  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159616  warning  'ah' is already defined                                                    no-redeclare
+  57:159644  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:159661  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:160327  warning  Unnecessary escape character: \:                                           no-useless-escape
+  57:160346  warning  Unnecessary escape character: \:                                           no-useless-escape
+  57:160464  warning  'ad' is already defined                                                    no-redeclare
+  57:160774  warning  Unnecessary escape character: \:                                           no-useless-escape
+  57:160786  warning  Unnecessary escape character: \:                                           no-useless-escape
+  57:160806  warning  Unnecessary escape character: \+                                           no-useless-escape
+  57:160808  warning  Unnecessary escape character: \-                                           no-useless-escape
+  57:160815  warning  Unnecessary escape character: \:                                           no-useless-escape
+  57:160905  warning  'ad' is already defined                                                    no-redeclare
+  57:161116  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:161148  warning  Unnecessary escape character: \/                                           no-useless-escape
+  57:161343  warning  'aj' is already defined                                                    no-redeclare
+  57:163920  warning  'al' is already defined                                                    no-redeclare
+  57:163966  warning  'aB' is already defined                                                    no-redeclare
+  57:163985  warning  'aE' is already defined                                                    no-redeclare
+  57:164144  warning  'al' is already defined                                                    no-redeclare
+  57:164178  warning  'aB' is already defined                                                    no-redeclare
+  57:164337  warning  'aE' is already defined                                                    no-redeclare
+  57:164616  warning  'al' is already defined                                                    no-redeclare
+  57:164650  warning  'aB' is already defined                                                    no-redeclare
+  57:165055  warning  'aH' is already defined                                                    no-redeclare
+  57:165295  warning  Unnecessary escape character: \'                                           no-useless-escape
+  57:165808  warning  'jQuery' is not defined                                                    no-undef
+  57:165831  warning  '$' is not defined                                                         no-undef
+  57:165854  warning  '$' is not defined                                                         no-undef
+  57:165915  warning  '$' is not defined                                                         no-undef
+  57:165924  warning  '$' is not defined                                                         no-undef
+  57:166420  warning  '$' is not defined                                                         no-undef
+  57:166635  warning  '$' is not defined                                                         no-undef
+  57:166655  warning  '$' is not defined                                                         no-undef
+  57:166777  warning  '$' is not defined                                                         no-undef
+  57:166842  warning  '$' is not defined                                                         no-undef
+  57:167190  warning  '$' is not defined                                                         no-undef
+  57:167210  warning  '$' is not defined                                                         no-undef
+  57:167277  warning  '$' is not defined                                                         no-undef
+  57:167345  warning  '$' is not defined                                                         no-undef
+  57:167381  warning  '$' is not defined                                                         no-undef
+  57:167403  warning  '$' is not defined                                                         no-undef
+  57:167435  warning  '$' is not defined                                                         no-undef
+  57:167469  warning  '$' is not defined                                                         no-undef
+  57:167510  warning  '$' is not defined                                                         no-undef
+  57:167548  warning  '$' is not defined                                                         no-undef
+  57:167560  warning  '$' is not defined                                                         no-undef
+  57:167575  warning  '$' is not defined                                                         no-undef
+  57:167639  warning  'standardSpeed' is defined but never used                                  no-unused-vars
+  57:167684  warning  '$' is not defined                                                         no-undef
+  57:167737  warning  '$' is not defined                                                         no-undef
+  57:167780  warning  '$' is not defined                                                         no-undef
+  57:167839  warning  '$' is not defined                                                         no-undef
+  57:167874  warning  'i' is defined but never used                                              no-unused-vars
+  57:167876  warning  'j' is defined but never used                                              no-unused-vars
+  57:167878  warning  'b' is defined but never used                                              no-unused-vars
+  57:167880  warning  'h' is defined but never used                                              no-unused-vars
+  57:167952  warning  '$' is not defined                                                         no-undef
+  57:168004  warning  '$' is not defined                                                         no-undef
+  57:168034  warning  '$' is not defined                                                         no-undef
+  57:168191  warning  '$' is not defined                                                         no-undef
+  57:168237  warning  '$' is not defined                                                         no-undef
+  57:168270  warning  '$' is not defined                                                         no-undef
+  57:168591  warning  '$' is not defined                                                         no-undef
+  57:168641  warning  '$' is not defined                                                         no-undef
+  57:168713  warning  '$' is not defined                                                         no-undef
+  57:168925  warning  '$' is not defined                                                         no-undef
+  57:168966  warning  '$' is not defined                                                         no-undef
+  57:169032  warning  '$' is not defined                                                         no-undef
+  57:169379  warning  '$' is not defined                                                         no-undef
+  57:169409  warning  '$' is not defined                                                         no-undef
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/jquery.min.js
+  2:820    warning  Empty block statement                                            no-empty
+  2:877    warning  Empty block statement                                            no-empty
+  2:4309   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:4537   warning  'b' is defined but never used                                    no-unused-vars
+  2:4813   warning  'd' is defined but never used                                    no-unused-vars
+  2:4989   warning  'd' is defined but never used                                    no-unused-vars
+  2:5201   warning  'l' is defined but never used                                    no-unused-vars
+  2:7003   warning  Empty block statement                                            no-empty
+  2:7308   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:7410   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:7495   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:7545   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:7584   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:11073  warning  Empty block statement                                            no-empty
+  2:12113  warning  'ActiveXObject' is not defined                                   no-undef
+  2:17172  warning  'r' is defined but never used                                    no-unused-vars
+  2:20309  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:20862  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:22767  warning  'e' is defined but never used                                    no-unused-vars
+  2:23489  warning  'c' is assigned a value but never used                           no-unused-vars
+  2:23599  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:24298  warning  Empty block statement                                            no-empty
+  2:25395  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:31012  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:31577  warning  'i' is defined but never used                                    no-unused-vars
+  2:31806  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:32395  warning  'g' is assigned a value but never used                           no-unused-vars
+  3:1378   warning  Empty block statement                                            no-empty
+  3:4948   warning  'a' is defined but never used                                    no-unused-vars
+  3:4950   warning  'b' is defined but never used                                    no-unused-vars
+  3:5456   warning  'a' is defined but never used                                    no-unused-vars
+  3:6564   warning  'a' is defined but never used                                    no-unused-vars
+  3:6566   warning  'b' is defined but never used                                    no-unused-vars
+  3:6705   warning  'a' is defined but never used                                    no-unused-vars
+  3:10179  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:10205  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:10230  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:11924  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:12936  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:12977  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13027  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13077  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13141  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13188  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:13190  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13260  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13273  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13291  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13372  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13409  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:13439  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:13448  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:13450  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:13770  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15150  warning  'b' is defined but never used                                    no-unused-vars
+  3:15305  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:18007  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:18082  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:18099  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:19212  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:19224  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:21922  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:21935  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:22344  warning  Empty block statement                                            no-empty
+  3:22626  warning  Empty block statement                                            no-empty
+  3:23007  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:23188  warning  Empty block statement                                            no-empty
+  3:24044  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:24400  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:24402  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:27566  warning  'd' is defined but never used                                    no-unused-vars
+  3:28032  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:28034  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:1      warning  Unexpected newline between function and ( of function call       no-unexpected-multiline
+  4:2688   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:2696   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:3720   warning  Empty block statement                                            no-empty
+  4:5107   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:6075   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6087   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6279   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:6281   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:6283   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6299   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:7381   warning  'c' is defined but never used                                    no-unused-vars
+  4:8700   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:8762   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:9639   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:11994  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:14359  warning  Empty block statement                                            no-empty
+  4:14990  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:15002  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:21298  warning  Empty block statement                                            no-empty
+  4:22435  warning  'e' is assigned a value but never used                           no-unused-vars
+  4:22914  warning  'g' is defined but never used                                    no-unused-vars
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge.js
+   2:3   warning  '$' is not defined                         no-undef
+   3:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                        no-undef
+   4:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                     no-undef
+   4:14  warning  '$' is not defined                         no-undef
+   4:33  warning  's1' is not defined                        no-undef
+   5:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                         no-undef
+  10:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                        no-undef
+  21:3   warning  'plot3' is not defined                     no-undef
+  21:11  warning  '$' is not defined                         no-undef
+  21:30  warning  's1' is not defined                        no-undef
+  23:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                         no-undef
+  27:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                      no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge1.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's1' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter1' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                         no-undef
+  21:3   warning  'plot5' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's1' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge11.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                          no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's1' is not defined                          no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter11' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                          no-undef
+  21:3   warning  'plot5' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's1' is not defined                          no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge12.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                          no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's1' is not defined                          no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter12' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                          no-undef
+  21:3   warning  'plot5' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's1' is not defined                          no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge13.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                          no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's1' is not defined                          no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter13' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                          no-undef
+  21:3   warning  'plot5' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's1' is not defined                          no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge14.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                          no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's1' is not defined                          no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter14' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                          no-undef
+  21:3   warning  'plot5' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's1' is not defined                          no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge15.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's15' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's15' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter15' is defined but never used  no-unused-vars
+  20:3   warning  's15' is not defined                         no-undef
+  21:3   warning  'plot5' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's15' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge16.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's16' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's16' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter16' is defined but never used  no-unused-vars
+  20:3   warning  's16' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's16' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge17.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's17' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's17' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter17' is defined but never used  no-unused-vars
+  20:3   warning  's17' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's17' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge18.js
+   2:3   warning  '$' is not defined                           no-undef
+   3:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   3:6   warning  's18' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                       no-undef
+   4:14  warning  '$' is not defined                           no-undef
+   4:34  warning  's18' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                           no-undef
+  10:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter18' is defined but never used  no-unused-vars
+  20:3   warning  's18' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                       no-undef
+  21:11  warning  '$' is not defined                           no-undef
+  21:31  warning  's18' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                           no-undef
+  27:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge2.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's2' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's2' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter2' is defined but never used  no-unused-vars
+  20:3   warning  's2' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's2' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge3.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's3' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's3' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter3' is defined but never used  no-unused-vars
+  20:3   warning  's3' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's3' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge4.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's4' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's4' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter4' is defined but never used  no-unused-vars
+  20:3   warning  's4' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's4' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge5.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's5' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot3' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's5' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter5' is defined but never used  no-unused-vars
+  20:3   warning  's5' is not defined                         no-undef
+  21:3   warning  'plot3' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's5' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge6.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's1' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot5' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's1' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter1' is defined but never used  no-unused-vars
+  20:3   warning  's1' is not defined                         no-undef
+  21:3   warning  'plot5' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's1' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/js_metergauge7.js
+   2:3   warning  '$' is not defined                          no-undef
+   3:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   3:6   warning  's7' is not defined                         no-undef
+   4:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   4:6   warning  'plot7' is not defined                      no-undef
+   4:14  warning  '$' is not defined                          no-undef
+   4:33  warning  's7' is not defined                         no-undef
+   5:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   6:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   7:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   8:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   9:18  warning  '$' is not defined                          no-undef
+  10:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  11:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  12:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  13:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  14:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  15:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  16:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  17:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  19:12  warning  'perform_meter7' is defined but never used  no-unused-vars
+  20:3   warning  's7' is not defined                         no-undef
+  21:3   warning  'plot7' is not defined                      no-undef
+  21:11  warning  '$' is not defined                          no-undef
+  21:30  warning  's7' is not defined                         no-undef
+  23:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  25:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  26:18  warning  '$' is not defined                          no-undef
+  27:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  28:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  29:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  30:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  31:5   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  32:4   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  33:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  34:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/shBrushJScript.min.js
+  1:42   warning  'SyntaxHighlighter' is not defined  no-undef
+  1:60   warning  'require' is not defined            no-undef
+  1:285  warning  'SyntaxHighlighter' is not defined  no-undef
+  1:672  warning  'SyntaxHighlighter' is not defined  no-undef
+  1:744  warning  'SyntaxHighlighter' is not defined  no-undef
+  1:809  warning  'exports' is not defined            no-undef
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/jquery_files/shBrushXml.min.js
+  1:42    warning  'SyntaxHighlighter' is not defined  no-undef
+  1:60    warning  'require' is not defined            no-undef
+  1:127   warning  'j' is defined but never used       no-unused-vars
+  1:136   warning  'SyntaxHighlighter' is not defined  no-undef
+  1:173   warning  'XRegExp' is not defined            no-undef
+  1:278   warning  'XRegExp' is not defined            no-undef
+  1:610   warning  'XRegExp' is not defined            no-undef
+  1:702   warning  'SyntaxHighlighter' is not defined  no-undef
+  1:768   warning  'XRegExp' is not defined            no-undef
+  1:874   warning  'SyntaxHighlighter' is not defined  no-undef
+  1:946   warning  'SyntaxHighlighter' is not defined  no-undef
+  1:1007  warning  'exports' is not defined            no-undef
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/js/exp3_js.js
+    4:40   warning  'w1' is assigned a value but never used   no-unused-vars
+    4:72   warning  'w2' is assigned a value but never used   no-unused-vars
+    4:90   warning  'f3' is defined but never used            no-unused-vars
+    4:93   warning  'Vin3' is defined but never used          no-unused-vars
+    4:98   warning  'p8' is defined but never used            no-unused-vars
+    4:101  warning  'V3' is defined but never used            no-unused-vars
+    4:104  warning  'w' is defined but never used             no-unused-vars
+    4:106  warning  'XL' is defined but never used            no-unused-vars
+    4:109  warning  'XC' is defined but never used            no-unused-vars
+    4:112  warning  'R3' is defined but never used            no-unused-vars
+    4:115  warning  't' is defined but never used             no-unused-vars
+    4:117  warning  'pf2' is defined but never used           no-unused-vars
+    4:121  warning  'VL' is defined but never used            no-unused-vars
+    4:124  warning  'ipt' is defined but never used           no-unused-vars
+    4:128  warning  'h' is defined but never used             no-unused-vars
+    4:130  warning  'n' is defined but never used             no-unused-vars
+    4:132  warning  'a' is defined but never used             no-unused-vars
+    4:134  warning  'ZL' is defined but never used            no-unused-vars
+    4:137  warning  'Z2' is defined but never used            no-unused-vars
+    4:140  warning  'Z1' is defined but never used            no-unused-vars
+    4:143  warning  'Zeq' is defined but never used           no-unused-vars
+    4:147  warning  'I3' is defined but never used            no-unused-vars
+    4:150  warning  'I1' is defined but never used            no-unused-vars
+    4:153  warning  'reg' is defined but never used           no-unused-vars
+    4:157  warning  'ReL' is defined but never used           no-unused-vars
+    4:161  warning  'XeL' is defined but never used           no-unused-vars
+    4:165  warning  'Ro1' is defined but never used           no-unused-vars
+    4:169  warning  'Xm1' is defined but never used           no-unused-vars
+    4:173  warning  'Pin31' is defined but never used         no-unused-vars
+   15:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   16:3    warning  'b' is not defined                        no-undef
+   18:17   warning  'b' is not defined                        no-undef
+   19:3    warning  'Ro' is not defined                       no-undef
+   20:3    warning  'Xm' is not defined                       no-undef
+   21:12   warning  'Ro' is not defined                       no-undef
+   25:20   warning  'b' is not defined                        no-undef
+   29:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   31:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   32:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   36:4    warning  'Alert' is not defined                    no-undef
+   38:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   39:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   40:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   45:4    warning  'perform_meter1' is not defined           no-undef
+   45:22   warning  'perform_meter3' is not defined           no-undef
+   45:40   warning  'perform_meter4' is not defined           no-undef
+   46:4    warning  'perform_meter5' is not defined           no-undef
+   47:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   53:4    warning  'perform_meter1' is not defined           no-undef
+   53:22   warning  'perform_meter3' is not defined           no-undef
+   53:40   warning  'perform_meter4' is not defined           no-undef
+   53:58   warning  'perform_meter5' is not defined           no-undef
+   55:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   69:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   79:4    warning  'perform_meter1' is not defined           no-undef
+   79:22   warning  'perform_meter3' is not defined           no-undef
+   79:40   warning  'perform_meter4' is not defined           no-undef
+   79:58   warning  'perform_meter5' is not defined           no-undef
+   84:10   warning  'xyz1' is defined but never used          no-unused-vars
+   88:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   89:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   93:4    warning  'Alert' is not defined                    no-undef
+  101:10   warning  'simulate_rc1' is defined but never used  no-unused-vars
+  105:4    warning  'Alert' is not defined                    no-undef
+  140:10   warning  'change_led1' is defined but never used   no-unused-vars
+  154:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  155:3    warning  'x' is not defined                        no-undef
+  156:3    warning  'y' is not defined                        no-undef
+  157:3    warning  'I4' is not defined                       no-undef
+  158:3    warning  'R1' is not defined                       no-undef
+  159:3    warning  'R2' is not defined                       no-undef
+  160:3    warning  'X1' is not defined                       no-undef
+  161:3    warning  'X2' is not defined                       no-undef
+  163:6    warning  'R1' is not defined                       no-undef
+  163:9    warning  'R2' is not defined                       no-undef
+  163:13   warning  'x' is not defined                        no-undef
+  164:3    warning  'I4' is not defined                       no-undef
+  165:6    warning  'I4' is not defined                       no-undef
+  166:13   warning  'I4' is not defined                       no-undef
+  166:16   warning  'x' is not defined                        no-undef
+  167:9    warning  'x' is not defined                        no-undef
+  169:9    warning  'y' is not defined                        no-undef
+  174:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  176:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  176:12   warning  'I4' is not defined                       no-undef
+  176:28   warning  'I4' is not defined                       no-undef
+  177:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  181:4    warning  'Alert' is not defined                    no-undef
+  183:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  184:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  185:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  187:28   warning  'I4' is not defined                       no-undef
+  190:4    warning  'perform_meter11' is not defined          no-undef
+  190:23   warning  'perform_meter12' is not defined          no-undef
+  190:42   warning  'perform_meter13' is not defined          no-undef
+  191:4    warning  'perform_meter14' is not defined          no-undef
+  192:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  198:4    warning  'perform_meter11' is not defined          no-undef
+  198:23   warning  'perform_meter12' is not defined          no-undef
+  198:42   warning  'perform_meter13' is not defined          no-undef
+  198:61   warning  'perform_meter14' is not defined          no-undef
+  200:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  211:3    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  212:3    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  213:3    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  214:3    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  215:3    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  222:4    warning  'perform_meter11' is not defined          no-undef
+  222:23   warning  'perform_meter12' is not defined          no-undef
+  222:42   warning  'perform_meter13' is not defined          no-undef
+  222:61   warning  'perform_meter14' is not defined          no-undef
+  223:1    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  227:10   warning  'xyz2' is defined but never used          no-unused-vars
+  231:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  232:2    warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  236:4    warning  'Alert' is not defined                    no-undef
+  244:10   warning  'simulate_rc2' is defined but never used  no-unused-vars
+  247:4    warning  'Alert' is not defined                    no-undef
+  255:57   warning  'I4' is not defined                       no-undef
+  260:57   warning  'I4' is not defined                       no-undef
+  265:57   warning  'I4' is not defined                       no-undef
+  270:57   warning  'I4' is not defined                       no-undef
+  275:57   warning  'I4' is not defined                       no-undef
+  282:10   warning  'change_led2' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/js/trans_load_test.js
+   12:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   14:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   20:7   warning  'X1' is assigned a value but never used   no-unused-vars
+   21:7   warning  'X2' is assigned a value but never used   no-unused-vars
+   51:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+   56:7   warning  'Xm' is assigned a value but never used   no-unused-vars
+   71:7   warning  'Ro1' is assigned a value but never used  no-unused-vars
+   72:13  warning  'Xm1' is assigned a value but never used  no-unused-vars
+   97:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  114:7   warning  'n' is assigned a value but never used    no-unused-vars
+  124:7   warning  'reg' is already defined                  no-redeclare
+  124:7   warning  'reg' is assigned a value but never used  no-unused-vars
+  127:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  129:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  130:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  134:4   warning  'Alert' is not defined                    no-undef
+  136:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  137:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  138:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  145:4   warning  'perform_meter2' is not defined           no-undef
+  145:21  warning  'perform_meter7' is not defined           no-undef
+  145:39  warning  'perform_meter18' is not defined          no-undef
+  145:58  warning  'perform_meter16' is not defined          no-undef
+  146:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  151:4   warning  'perform_meter2' is not defined           no-undef
+  151:21  warning  'perform_meter7' is not defined           no-undef
+  151:39  warning  'perform_meter18' is not defined          no-undef
+  151:58  warning  'perform_meter16' is not defined          no-undef
+  153:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  196:4   warning  'perform_meter2' is not defined           no-undef
+  196:21  warning  'perform_meter7' is not defined           no-undef
+  196:39  warning  'perform_meter18' is not defined          no-undef
+  196:59  warning  'perform_meter16' is not defined          no-undef
+  236:10  warning  'xyz3' is defined but never used          no-unused-vars
+  240:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  242:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  248:7   warning  'X1' is assigned a value but never used   no-unused-vars
+  249:7   warning  'X2' is assigned a value but never used   no-unused-vars
+  279:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  284:7   warning  'Xm' is assigned a value but never used   no-unused-vars
+  299:7   warning  'Ro1' is assigned a value but never used  no-unused-vars
+  300:13  warning  'Xm1' is assigned a value but never used  no-unused-vars
+  353:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  359:7   warning  'VL' is assigned a value but never used   no-unused-vars
+  372:7   warning  'a' is assigned a value but never used    no-unused-vars
+  378:1   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  380:7   warning  'reg' is already defined                  no-redeclare
+  390:2   warning  Mixed spaces and tabs                     no-mixed-spaces-and-tabs
+  395:4   warning  'Alert' is not defined                    no-undef
+  404:10  warning  'change_led3' is defined but never used   no-unused-vars
+
+/home/runner/work/exp-single-phase-transformer-iitkgp/exp-single-phase-transformer-iitkgp/experiment/simulation/pop_up/pop_up.js
+  21:5  warning  'Alert' is assigned a value but never used  no-unused-vars
+
+✖ 1257 problems (0 errors, 1257 warnings)
+  0 errors and 2 warnings potentially fixable with the `--fix` option.
+
