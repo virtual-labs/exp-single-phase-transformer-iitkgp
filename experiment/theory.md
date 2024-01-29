@@ -9,9 +9,9 @@
  <b> &phi; </b> in the core.  This flux induces an emf e<sub>1</sub> in the coil to counter balance the applied voltage V<sub>1</sub>. This emf is</p>
 <p style="text-align: center;"> <b> $$e_1=N_1 \frac{d \Phi_p}{dt}$$</b></p>
 <p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux , let &nbsp;&nbsp;&nbsp; &nbsp; 
-&nbsp;&nbsp; Then, </p><br><br>
-<p style="text-align: center;"> <b> $$\Phi_p=\Phi_msin({\omega}t)$$ </b> </p> 
+<p>&nbsp;&nbsp;&nbsp;Assuming sinusoidal time variation of the flux ,  </p><br><br>
+
+<p style="text-align: center;"> <b> $$let \ \Phi_p=\Phi_msin({\omega}t) \ then,$$ </b> </p> 
 
 <p style="text-align: center;"> <b> $$e_1=N_1\omega\Phi_mcos(\omega t)$$ </b> </p>
 
@@ -26,7 +26,7 @@
 <br><P>Where &Phi;<sub>m</sub><sup>'</sup> is the maximum value of the (sinusoidal) flux linking the secondary coil  &Phi;<sub>s</sub><sup>'</sup> </p>
 
 <p>If it is assumed that $$\Phi_p=\Phi_s$$ then the primary and secondary emf bear the following ratio:</p>
-<br><p style="text-align: center;"> <b> $$\frac{e_1}{e_2} = \frac{E_1}{E_2} = {N_1}{N_2}$$ </b></p>
+<br><p style="text-align: center;"> <b> $$\frac{e_1}{e_2} = \frac{E_1}{E_2} = \frac{N_1}{N_2}$$ </b></p>
 <br>
 <p>Note that in actual practice, $$\Phi_p=\Phi_s$$ since some of the flux paths linking the primary coil do not link the secondary coil and similarly some of the flux paths linking the secondary coil do not link the primary coil. The fluxes which do not link both the coils are called "Leakage Fluxes" of the primary and secondary coil.&nbsp;
 <p>Although the iron core is highly permeable, it is not possible to generate a magnetic field in it without the application of a small m.m.f (magneto motive force, denoted by mmf . 
