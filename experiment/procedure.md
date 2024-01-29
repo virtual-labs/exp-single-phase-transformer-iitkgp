@@ -25,9 +25,9 @@
 <p>The shunt parameters can be determined by performing the test. Since the core loss and magnetizing current depend on applying voltage,this test  is performed by applying rated voltage at one winding and other winding keeping open (basically H.V.Side winding is kept open and rated voltage applying at L.V.Side winding ). 
 Under no-load condition the power input to the transformer is equal to the sum of losses in the primary winding resistance R<sub>1</sub> is neglected and core loss. Since, no load current is very small,the loss in winding resistance is neglected. If I<sub>o</sub> and P<sub>i</sub> are the current and input power drawn by the transformer at rated voltage V<sub>1</sub> respectively.Then,</p>
 <br>
-				<p style="text-align: center;"> <b> $$coszeta_o=P_i/(V_1*I_o)$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$I_c=I_o*cos\zeta_o$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$I_m=I_o*sin\zeta_o$$ </b></p><br>
-						    <p style="text-align: center;"> <b> $$R_o=V_1/I_c$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$X_m=V_1/I_m$$ </b></p><br><br>
+				<p style="text-align: center;"> <b> $$cos \zeta_o = \frac{P_i}{(V_1*I_o)}$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$I_c = I_o*cos\zeta_o$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$I_m = I_o*sin \zeta_o$$ </b></p><br>
+						    <p style="text-align: center;"> <b> $$R_o = \frac{V_1}{I_c}$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $$X_m = \frac{V_1}{I_m}$$ </b></p><br><br>
 							<p><span style="text-align:left; background-color: rgb(255, 255, 0);"><strong>Equivalent circuit diagram for open circuit test:</strong></span></p><br>
 							<p style="text-align: center;"> 
                                 <img src="images/tx_open.jpg" style="height: 70%; width: 70%;"><br><br>
@@ -55,10 +55,10 @@ Under no-load condition the power input to the transformer is equal to the sum o
 							<p>In this test, the L.V.Side terminals are shorted.The primary voltage is gradually applied till the rated current flows in the winding. Since, the applied voltage is very small. The magnetizing branch can now be eleminated from the equivalent circuit. 
 							The modified equivalentcircuit is shown in the figure. If V<sub>(sc)</sub> is the applied voltage to circulated the rated current (I<sub>2</sub>)on short circuit and P<sub>c</sub> is the power input to the transformer.</p>
 							<br>
-							<p style="text-align: center;"> <b> $$Z_(sc)=V_(sc)/(I'_2)$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$costheta=P_c/(V_(sc)*I'_2)$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$R_1+R'_2=Z_(sc)*cos\theta$$ </b></p><br>
-							<p style="text-align: center;"> <b> $$X_1+X'_2=Z_(sc)*sin\theta$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$Z_{sc} = \frac{V_{sc}}{I'_2}$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$cos \theta = \frac{P_c}{V_{sc}*I'_2}$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$R_1  +R'_2 = Z_{sc} * cos \theta$$ </b></p><br>
+							<p style="text-align: center;"> <b> $$X_1 + X'_2 = Z_{sc} * sin \theta$$ </b></p><br>
 							<p><span style="text-align:left; background-color: rgb(255, 255, 0);"><strong>Equivalent circuit diagram for short circuit test:</strong></span></p><br>
 							<p style="text-align: center;"> 
                                 <img src="images/tx_short.jpg" style="height: 70%; width: 70%;"><br>
